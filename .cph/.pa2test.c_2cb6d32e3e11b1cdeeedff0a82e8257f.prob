@@ -1,0 +1,1 @@
+{"name":"Local: pa2test","url":"/Users/parkonu/Desktop/CWorkspace/pa2test.c","tests":[{"id":1711937870318,"input":"hit\nmap\nhat dat dap lap lat map pit pat pam","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/parkonu/Desktop/CWorkspace/pa2test.c","group":"local","local":true}
