@@ -4,6 +4,7 @@
 #define MAX_LENGTH 100000
 
 
+
 int findMaxLength(char *food) {
     int maxLength = 0, n = strlen(food);
 
